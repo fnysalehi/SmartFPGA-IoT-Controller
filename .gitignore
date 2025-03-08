@@ -1,0 +1,58 @@
+# FPGA and HDL specific
+*.bit
+*.bin
+*.mcs
+*.prm
+*.xise
+*.gise
+*.ngc
+*.ngd
+*.ncd
+*.pad
+*.par
+*.pcf
+*.ptwx
+*.unroutes
+*.xpi
+*.xst
+*.map
+*.mrp
+*.ngm
+*.xrpt
+*.csv
+*.html
+*.xml
+*.log
+*.cmd_log
+*.syr
+*.twr
+*.twx
+*.bld
+*.rpt
+
+# Simulation files
+*.wdb
+*.vcd
+*.vvp
+*.vho
+*.sdo
+*.sdf
+*.wlf
+*.mem
+
+# ISE specific
+iseconfig/
+xlnx_auto_0_xdb/
+xst/
+_ngo/
+_xmsgs/
+
+# ModelSim specific
+work/
+transcript
+*.wlf
+*.ini
+
+# System specific
+.DS_Store
+Thumbs.db
